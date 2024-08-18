@@ -101,4 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  report: https://github.com/iceobelisk/iceobelisk.github.io.git
+  branch: view
