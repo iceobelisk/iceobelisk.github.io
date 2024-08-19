@@ -104,3 +104,14 @@ deploy:
   type: git
   repo: https://github.com/iceobelisk/iceobelisk.github.io.git
   branch: view
+
+# For Hexo-word-counter
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+  wpm: 275
+  suffix: "mins."
+  
